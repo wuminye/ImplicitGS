@@ -3,7 +3,13 @@
 Minye Wu, Tinne Tuytelaars<br>
 | [Webpage](https://wuminye.github.io/projects/IGS/) | [Full Paper](https://arxiv.org/pdf/2408.10041) |<br>
 [Pre-trained Models (uploading) ]() <br>
-![Teaser image](assets/teaser.jpg)
+
+
+<div style="text-align: center;">
+<img src="assets/teaser.jpg" alt="description" style="width:50%;" />
+</div>
+
+
 
 This repository contains the official authors implementation associated with the paper "Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation". We further provide the pre-trained uncompressed models used to create the error metrics reported in the paper.
 
