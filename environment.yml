@@ -16,5 +16,5 @@ dependencies:
   - wandb
   - ipdb
   - pip:
-    - submodules/diff-gaussian-rasterization
+    - submodules/diff-gaussian-rasterization_igs
     - submodules/simple-knn
