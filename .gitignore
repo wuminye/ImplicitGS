@@ -12,6 +12,5 @@ screenshots
 *.png
 *.mp4
 *.ply
-*.sh
 *.swp
 wandb
