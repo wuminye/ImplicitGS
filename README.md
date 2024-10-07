@@ -2,7 +2,7 @@
 
 Minye Wu, Tinne Tuytelaars<br>
 | [Webpage](https://wuminye.github.io/projects/IGS/) | [Full Paper](https://arxiv.org/pdf/2408.10041) |<br>
-[Pre-trained Models (uploading) ]() <br>
+[Pre-trained Models](https://kuleuven-my.sharepoint.com/:f:/g/personal/minye_wu_kuleuven_be/Ep6SbgN8a9pItItRKmNdgKoBZyBFRb1TXvX_pg4Jq5Tgmg?e=CKP1yz) <br>
 
 
 <div style="text-align: center;">
@@ -95,7 +95,7 @@ sh test_mipnerf.sh
 sh test_db_and_tt.sh
 ```
 
-If you want to evaluate our [pre-trained models(uploading)](), you will have to download the corresponding source data sets and indicate their location to ```distortion_curve.py``` with an additional ```-s``` flag in the scripts.
+If you want to evaluate our [pre-trained models](https://kuleuven-my.sharepoint.com/:f:/g/personal/minye_wu_kuleuven_be/Ep6SbgN8a9pItItRKmNdgKoBZyBFRb1TXvX_pg4Jq5Tgmg?e=CKP1yz), you will have to download the corresponding source data sets and indicate their location to ```distortion_curve.py``` with an additional ```-s``` flag in the scripts.
 
 <details>
 <summary><span style="font-weight: bold;">Primary Command Line Arguments for distortion_curve.py</span></summary>
