@@ -15,6 +15,9 @@ dependencies:
   - pillow_heif
   - wandb
   - ipdb
+  - opencv-python
+  - matplotlib
+  - point_cloud_utils
   - pip:
     - submodules/diff-gaussian-rasterization_igs
     - submodules/simple-knn
